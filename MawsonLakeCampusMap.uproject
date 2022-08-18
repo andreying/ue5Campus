@@ -14,6 +14,7 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+<<<<<<< HEAD
 		},
 		{
 			"Name": "RigLogic",
@@ -35,6 +36,8 @@
 				"Win64",
 				"Mac"
 			]
+=======
+>>>>>>> parent of 992078c (create a metahuman)
 		}
 	]
 }
